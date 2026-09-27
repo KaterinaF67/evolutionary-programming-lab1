@@ -1,0 +1,4 @@
+method,dimension,lower_bound,upper_bound,population_size,evaluation_budget,crossover_probability,mutation_probability,tournament_size,elite_count,mutation_sigma_start,mutation_sigma_end,n_runs,seed_start,seed_end
+GA_mutation_0.15,6,-20.0,20.0,150,30000,0.9,0.15,3,2,1.0,0.001,20,202600,202619
+GA_mutation_0.30,6,-20.0,20.0,150,30000,0.9,0.3,3,2,1.0,0.001,20,202600,202619
+Random_search,6,-20.0,20.0,,30000,,,,,,,20,202600,202619
